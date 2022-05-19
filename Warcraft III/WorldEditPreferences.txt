@@ -1,0 +1,243 @@
+[AI Condition]
+Dialog Height=0
+Dialog Width=0
+
+[Asset Manager]
+Column Width - Locale=100
+Column Width - Mode=100
+Column Width - Name=100
+Column Width - Path=200
+Column Width - Size=65
+Column Width - Teen=100
+Column Width - Type=100
+Sort Column=0
+
+[Campaign Editor]
+Asset Column Width - Locale=100
+Asset Column Width - Mode=100
+Asset Column Width - Name=100
+Asset Column Width - Path=200
+Asset Column Width - Size=65
+Asset Column Width - Teen=100
+Asset Column Width - Type=100
+Asset Sort Column=0
+Category Display - Abilities=-1
+Category Display - Buffs=-1
+Category Display - Destructibles=-1
+Category Display - Doodads=-1
+Category Display - Items=-1
+Category Display - Units=-1
+Category Display - Upgrades=-1
+Custom Ability - Divider Position=180
+Custom Ability - Name Width=150
+Custom Buff - Divider Position=180
+Custom Buff - Name Width=150
+Custom Destructable - Divider Position=180
+Custom Destructable - Name Width=150
+Custom Doodad - Divider Position=180
+Custom Doodad - Name Width=150
+Custom Item - Divider Position=180
+Custom Item - Name Width=150
+Custom Unit - Divider Position=180
+Custom Unit - Name Width=150
+Custom Upgrade - Divider Position=180
+Custom Upgrade - Name Width=150
+
+[Configure Controls]
+Last Tab=0
+Scroll Position - AI Editor=0
+Scroll Position - Asset Manager=0
+Scroll Position - Campaign Editor=0
+Scroll Position - Conversation Editor=0
+Scroll Position - Model Previewer=0
+Scroll Position - Object Editor=0
+Scroll Position - Object Manager=0
+Scroll Position - Sound Editor=0
+Scroll Position - Terrain Editor=0
+Scroll Position - Trigger Editor=0
+
+[Conversation Editor]
+Divider X Position=500
+Divider Y Position=500
+
+[Gameplay Constants]
+Dialog Height=300
+Dialog Width=400
+Name Column Width=150
+Value Column Width=150
+
+[Last Minimap Export]
+File=
+Options=139
+Size=256
+Smoothing=1
+
+[Map File]
+Merge Custom Script=1
+
+[Minimap]
+Show Creep Camps=0
+Show Game Area Only=0
+Show Icons=0
+
+[Misc]
+Ability Editor Divider Position=180
+Ability Editor Name Width=150
+Auto Cycle Random Groups=1
+Autosave Time=0
+Buff Editor Divider Position=180
+Buff Editor Name Width=150
+Create New Palette Windows=0
+Destructable Editor Divider Position=180
+Destructable Editor Name Width=150
+Doodad Editor Divider Position=180
+Doodad Editor Name Width=150
+Editor User Interface Sound=1
+Enforce Camera Boundaries=1
+Enforce Water Limits=1
+Fixed Day Night Cycle=0
+Has Been Run=true
+hd=1
+Invert Mouse=0
+Item Editor Divider Position=180
+Item Editor Name Width=150
+Large Grid Color=7
+Last Doodad Properties Tab=0
+Last Preferences Tab=0
+Last Unit Properties Tab=0
+Lock Palette Visibility=1
+Main Window Panel Width=150
+Medium Grid Color=1
+Minimap Height=200
+Module Toolbar Display=-1
+Mouse Scroll Speed=4
+Music Volume=60
+New Map On Startup=1
+Play Splash Sound=1
+Preferences Version=1
+Previewer Auto Zoom=1
+Previewer Height=300
+Reset Fixed Z When Moving Objects=1
+Show Splash=0
+Sky Model=0
+Small Grid Color=3
+Sound Volume=100
+Sound Volume - UI=80
+teen=0
+Terrain Wireframe Color=0
+Tool Palette Button Size=2
+Tooltips=1
+Undo Limit=0
+Unit Editor Divider Position=180
+Unit Editor Name Width=150
+Upgrade Editor Divider Position=180
+Upgrade Editor Name Width=150
+Variables Sort Type=0
+Verbose Tooltips=1
+Visible UI Elements=11
+Warcraft III Application=
+
+[Object Editor]
+Allow Negative Values=0
+Category Display - Abilities=-1
+Category Display - Buffs=-1
+Category Display - Destructibles=-1
+Category Display - Doodads=-1
+Category Display - Items=-1
+Category Display - Units=-1
+Category Display - Upgrades=-1
+Display Values As Raw Data=0
+Last Tab=0
+Sort Objects By Name=0
+
+[Random Groups Dialog]
+Height=250
+Width=650
+
+[Replace Doodads]
+New Doodad=0
+Old Doodad=0
+Reset Variations=0
+Selected Only=0
+Swap=0
+
+[Replace Units]
+New Unit=0
+Old Unit=0
+Selected Only=0
+Swap=0
+
+[Script Error Dialog]
+Height=400
+Width=600
+
+[Sound Editor]
+Divider Position=180
+File Name Width=120
+Variable Name Width=120
+
+[Sound Set Editor]
+Name Width=180
+Pitch Width=180
+
+[Terrain Cursor]
+Color=14
+Enabled=1
+
+[Test Map]
+Copy Location=WorldEditTestMap
+Difficulty=1
+Fixed Random Seed=1
+hd=0
+No Windows Focus Pause=0
+Player Profile=WorldEdit
+Show Window Mode=0
+teen=0
+
+[Text Color]
+Default=-16777216
+Disabled=-8355712
+Object Editor Default=-16777216
+Object Editor From Campaign=-16777024
+Object Editor From Map=-4194112
+Trigger Comment=-16744448
+Trigger Cut=-8355648
+Trigger Disabled=-4194304
+Trigger Disabled Unused=-4161408
+Trigger Enabled=-16777216
+Trigger Enabled Unused=-8355712
+Trigger Partially Enabled=-16777216
+Trigger Partially Enabled Unused=-8355712
+
+[Trigger Editor]
+Auto Create Variables=0
+Horizontal Divider Position=220
+JassHelper - Enable=1
+JassHelper - Enable Debug=0
+JassHelper - Enable Optimizer=0
+JassHelper - Enable vJass=1
+Vertical Divider Position=180
+
+[Trigger Function]
+Dialog Height=0
+Dialog Width=0
+
+[Trigger Parameter]
+Dialog Height=0
+Dialog Width=0
+
+[Variable Dialog]
+Height=285
+Width=400
+
+[Variables Dialog]
+Height=285
+Initial Value Column Width=115
+Name Column Width=140
+Type Column Width=110
+Width=400
+
+[Video]
+Particles=1
+Texture Quality=1
+
